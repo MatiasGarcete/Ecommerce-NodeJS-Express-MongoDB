@@ -1,0 +1,39 @@
+#detailProduct{
+    width: 80%;
+    height: 80vh;
+    margin: auto;
+    padding: 1rem;
+    display: flex;
+    border: 1px solid
+}
+
+#detailProduct > div {
+    border: 1px solid;
+    width: 50%;
+    padding: 1rem;
+}
+
+.containerImagen{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.containerImagen img{
+    width: 50%;
+}
+.containerInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.containerInfo button {
+    width: 60%;
+    margin: 0 auto;
+    padding: 0.7rem;
+    border-radius: 8px;
+
+}

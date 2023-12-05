@@ -1,0 +1,191 @@
+[
+    {
+        "nombre": "Nike AirUptempo",
+        "color": "brown",
+        "imagen":"https://cdn.discordapp.com/attachments/1154158862199435424/1155616729582546944/0.png",
+        "precio": "120",
+        "talle": ["11", "10", "9", "8"],
+        "id": 0,
+        "Description": "Nada refleja tanto el amor como el Air. El cuero café premium perforado y los detalles rosas de ensueño crean un calzado realmente llamativo. Nunca tímido, el siempre llamativo Air More Uptempo ha sido cálido desde su debut en el 96. La amortiguación Nike Air visible mantiene la ligereza y la ventilación en cada paso, mientras que las agujetas elásticas te permiten moverte con comodidad."
+    },
+    {
+        "nombre": "Nike Court",
+        "color": "White And Green",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/531729-1000-1000?v=1781196477&width=1000&height=1000&aspect=true",
+        "precio": "100",
+        "talle": ["11", "10", "9", "8"],
+        "id": 1,
+        "Description":"Honrando una historia arraigada en la cultura del tenis, el Nike Court Legacy te trae un básico probado por el tiempo. La parte superior rugosa, las costuras tradicionales y un Swoosh retro permiten combinar deporte y moda. Y puedes hacer el bien luciendo bien"
+    },
+    {
+        "nombre": "Nike Dunk",
+        "color": "Black And White",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/452120-800-800?v=638149279121200000&width=800&height=800&aspect=true",
+        "precio": "110",
+        "talle": ["11", "10", "9", "8"],
+        "id": 2,
+        "Description":"El ícono ochentero del básquetbol, que se creó para la cancha pero conquistó las calles, vuelve con revestimientos suaves y vibras de básquetbol clásico. Regresamos un estilo vintage a las calles; su cuello high y acolchonado te permite llevar tu juego cómodamente a cualquier lugar."
+    },
+    {
+        "nombre": "Nike DunkLow",
+        "color": "White",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/531941-800-800?v=638161386217600000&width=800&height=800&aspect=true",
+        "precio": "105",
+        "talle": ["11", "10", "9", "8"],
+        "id": 3,
+        "Description":"El ícono del básquetbol, creado para la cancha y adaptado al estilo urbano, vuelve con detalles clásicos y un estilo de básquetbol retro. Con un diseño que lleva el estilo de los 80, la zona del tobillo acolchada de corte low te permite ir cómodamente a cualquier parte."
+    },
+    {
+        "nombre": "Air Jordan 4 Retro",
+        "color": "White",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/529566-1000-1000?v=1781177554&width=1000&height=1000&aspect=true",
+        "precio": "115",
+        "talle": ["11", "10", "9", "8"],
+        "id": 4,
+        "Description":"Obtén tu parte de la historia y herencia de Jordan con el Air Jordan 4 Retro. Inspirado en el clásico calzado de juego de 1990, cuenta con todos los detalles icónicos, como el cuello desigual, los cordones con bloqueo regulable y las líneas de diseño inspiradas en los aviones de combate."
+    },
+    {
+        "nombre": "Air Jordan 1 Zoom",
+        "color": "brown",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/532304/DV1307_205_A_PREM.jpg?v=638161391318030000",
+        "precio": "130",
+        "talle": ["11", "10", "9", "8"],
+        "id": 5,
+       " Description":"La gamuza premium y la espuma Formula 23 exclusiva de la marca Jordan se unen para brindarte un AJ1 mucho más lujoso (y cómodo). Con este calzado no necesitas elegir entre estilo o comodidad, lo cual está bien porque te mereces las dos cosas."
+    },
+    {
+        "nombre": "Nike SB Pogo",
+        "color": "black",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/454990-800-800?v=638149318633730000&width=800&height=800&aspect=true",
+        "precio": "124",
+        "talle": ["11", "10", "9", "8"],
+        "id": 6,
+        "Description":"Patina cómodamente con el Nike SB Pogo. Ofrece un ajuste cómodo desde el momento en que lo sacas de la caja. La parte superior de lona y cuero envejece para conseguir un tacto perfecto. La cinta elevada aumenta el control para lograr el movimiento perfecto.Beneficios•La lona y el cuero se amoldan naturalmente y se adaptan al pie para brindar un rendimiento óptimo.•La cinta elevada y el área reforzada de la punta brindan durabilidad y un excelente control de la patineta.•La unidad Zoom Air proporciona una amortiguación eficaz.•La confección vulcanizada une la suela a la parte superior para aportar flexibilidad y comodidad desde el primer momento.Datos del producto•Suela de goma•Detalles de gamuza"
+    },
+    {
+        "nombre": "Nike SB Blazer",
+        "color": "brown",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/532562-800-800?v=638161395095770000&width=800&height=800&aspect=true",
+        "precio": "122",
+        "talle": ["11", "10", "9", "8"],
+        "id": 7,
+        "Description":"El Zoom Blazer Mid es un calzado de básquetbol icónico pensado para las necesidades del skater moderno. Los materiales duraderos se combinan con goma adherente para brindar un agarre y una comodidad que perduran. Los detalles ocultos (como la guía de instrucciones en la plantilla) están inspirados en el aire libre y los detalles de tela y la marca retro hacen alusión a tus mochilas favoritas de los 90."
+    },
+    {
+        "nombre": "Nike DunkLow SE",
+        "color": "violet",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/532581-1000-1000?v=1781153799&width=1000&height=1000&aspect=true",
+        "precio": "90",
+        "talle": ["11", "10", "9", "8"],
+        "id": 8,
+        "Description":"El ícono del básquetbol, creado para la cancha y adaptado al estilo urbano, vuelve con detalles clásicos y un estilo de básquetbol retro. Con un diseño que lleva el estilo de los 80, la zona del tobillo acolchada de corte low te permite ir cómodamente a cualquier parte."
+    },
+    {
+        "nombre": "Nike DunkLow LX",
+        "color": "white and blue",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/455572-800-800?v=638149328029270000&width=800&height=800&aspect=true",
+        "precio": "99 USD",
+        "talle": ["11", "10", "9", "8"],
+        "id": 9,
+        "Description":"El ícono del básquetbol, creado para la cancha y adaptado al estilo urbano, vuelve con detalles clásicos y un estilo de básquetbol retro. Con un diseño que lleva el estilo de los 80, la zona del tobillo acolchada de corte low te permite ir cómodamente a cualquier parte."
+    },
+    {
+        "nombre": "Nike Jordan Air 200E",
+        "color": "white and blue",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/698484-800-800?v=638229588274170000&width=800&height=800&aspect=true",
+        "precio": "127",
+        "talle": ["11", "10", "9", "8"],
+        "id": 10,
+        "Description": "Diseñado para recorrer las calles con la comodidad y actitud en mente, el Jordan Air 200E combina la ultima tecnologia con materiales duraderos, a la vez que se mantiene fiel al ADN Jordan. El estilo de corte low combina geometria visual con Max Air para brindar un andar elegante y versatil."
+    },
+    {
+        "nombre": "Air Jordan 1 Mid SE Craft",
+        "color": "white and blue",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/530374-800-800?v=638161363745530000&width=800&height=800&aspect=true",
+        "precio": "69",
+        "talle": ["11", "10", "9", "8"],
+        "id": 11,
+        "Description": "Diseñado para recorrer las calles con la comodidad y actitud en mente, el Jordan Air 200E combina la ultima tecnologia con materiales duraderos, a la vez que se mantiene fiel al ADN Jordan. El estilo de corte low combina geometria visual con Max Air para brindar un andar elegante y versatil."
+    },
+    {
+        "nombre": "Nike SB Bruin React",
+        "color": "white and blue",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/155883-800-800?v=638086284343430000&width=800&height=800&aspect=true",
+        "precio": "79",
+        "talle": ["11", "10", "9", "8"],
+        "id": 12,
+        "Description": "¿Quieres un calzado ligero y flexible con el que puedas andar todo el día? Nosotros también. Por eso creamos el Nike SB Bruin React. Se trata de un calzado duradero de corte low con espuma Nike React Foam, elástica y de respuesta inmediata, con un diseño hecho para el skate."
+    },
+    {
+        "nombre": "Nike SB Ishod Premium",
+        "color": "white and blue",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/643402-800-800?v=638211345807270000&width=800&height=800&aspect=true",
+        "precio": "99",
+        "talle": ["11", "10", "9", "8"],
+        "id": 13,
+        "Description": "¿Quieres un calzado ligero y flexible con el que puedas andar todo el día? Nosotros también. Por eso creamos el Nike SB Bruin React. Se trata de un calzado duradero de corte low con espuma Nike React Foam, elástica y de respuesta inmediata, con un diseño hecho para el skate."
+    },
+    {
+        "nombre": "Nike Dunk Low SE",
+        "color": "white and blue",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/681854-800-800?v=638224575122130000&width=800&height=800&aspect=true",
+        "precio": "88",
+        "talle": ["11", "10", "9", "8"],
+        "id": 14,
+        "Description": "Ponte en marcha, sigue adelante, nunca pienses dos veces en tu calzado. Esta versión nueva del ícono del básquetbol urbano combina un diseño atemporal con materiales premium. Los neutros frescos combinan con todo lo que uses, mientras que los destellos de naranja aumentan la energía. "
+    },
+    {
+        "nombre": "Nike Air Force 1 '07 LV8",
+        "color": "white and blue",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/629256-800-800?v=638210595101330000&width=800&height=800&aspect=true",
+        "precio": "80",
+        "talle": ["11", "10", "9", "8"],
+        "id": 15,
+        "Description": "Los detalles clásicos mejoran un ícono que ofrece un estilo atemporal que es fácil de usar. El cuero auténtico y sintético brinda una sensación clásica a este calzado, y los logotipos Swoosh en capas y la espuma expuesta en la lengüeta agregan un look retro. "
+    },
+    {
+        "nombre": "Nike Air Force 1 Low Retro",
+        "color": "white and blue",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/629700-800-800?v=638210601537000000&width=800&height=800&aspect=true",
+        "precio": "200",
+        "talle": ["11", "10", "9", "8"],
+        "id": 16,
+        "Description": "La serie Color of the Month te permite satisfacer tu necesidad mientras celebras una parte poco conocida de la historia de Nike: la serie Color of the Month original de 1984 tal vez sea la que salvó al AF1 de la extinción. "
+    },
+    {
+        "nombre": "Nike Dunk Low SE",
+        "color": "white and blue",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/702359-800-800?v=638233920121000000&width=800&height=800&aspect=true",
+        "precio": "150",
+        "talle": ["11", "10", "9", "8"],
+        "id": 17,
+        "Description": "Dale un giro a tu look con el estilo de básquetbol retro del Nike Dunk Low. Creado para la cancha, pero llevado a las calles, este ícono del básquetbol de los 80 regresa con cuero brillante y todo el flash que necesitas para brillar. Canalizando un estilo vintage, el cuello acolchado y de perfil bajo te permiten llevar cómodamente tu juego a cualquier lugar. "
+    },
+    {
+        "nombre": "Nike SB Zoom Janoski OG",
+        "color": "white and blue",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/730291-800-800?v=638302295269270000&width=800&height=800&aspect=true",
+        "precio": "136",
+        "talle": ["11", "10", "9", "8"],
+        "id": 18,
+        "Description": "El regreso del Janoski. Después de un año de investigación y rediseño el Janoski + continúa el viaje de la línea de skate exclusiva de Stefan. Basándonos en 14 años de experiencia y más conocimientos sobre skate, hemos reunido las mejores partes del original de 2009 y la versión remasterizada de 2019 para ofrecerte una nueva versión de lo relajado y casual.  "
+    },
+    {
+        "nombre": "Jordan Stay Loyal 2",
+        "color": "white and blue",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/454418-800-800?v=638149309282000000&width=800&height=800&aspect=true",
+        "precio": "106",
+        "talle": ["11", "10", "9", "8"],
+        "id": 19,
+        "Description": "nspirado en generaciones de Js, este calzado es un collage de frescura. Los detalles de diseño recuperan décadas de calzado legendarias y rinden homenaje a la mítica carrera de MJ. La malla transpirable, el cuero resistente y la ligera amortiguación Air en el talón hacen que sea mucho más fácil seguir los pasos hacia la grandeza."
+    },
+    {
+        "nombre": "Nike Air Max 1 Premium",
+        "color": "white and blue",
+        "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/702265-800-800?v=638233918879400000&width=800&height=800&aspect=true",
+        "precio": "106",
+        "talle": ["11", "10", "9", "8"],
+        "id": 20,
+        "Description": "El Air Max 1 Corduroy es tu boleto de entrada. Envuelto en una tela ultra resistente, pero suave que desafía el estereotipo de género, su textura maravillosa muestra tu desapego contemplativoa."
+    }
+]

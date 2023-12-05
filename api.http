@@ -1,0 +1,22 @@
+###
+GET http://localhost:3008/api/productos
+
+###
+GET http://localhost:3008/api/productos/3
+
+###
+GET http://localhost:3008/api/productos
+Content-Type: application/json
+
+{
+    {
+        "id": 0,
+        "nombre": "Nike AirUptempo",
+        "color": "brown",
+        "imagen":"https://cdn.discordapp.com/attachments/1154158862199435424/1155616729582546944/0.png",
+        "precio": "120",
+        "talle": ["11", "10", "9", "8"],
+        
+        "Description": "Nada refleja tanto el amor como el Air. El cuero café premium perforado y los detalles rosas de ensueño crean un calzado realmente llamativo. Nunca tímido, el siempre llamativo Air More Uptempo ha sido cálido desde su debut en el 96. La amortiguación Nike Air visible mantiene la ligereza y la ventilación en cada paso, mientras que las agujetas elásticas te permiten moverte con comodidad."
+    }
+}
